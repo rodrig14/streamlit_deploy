@@ -1,0 +1,30 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Apr 11 00:45:23 2025
+
+@author: rodrigue
+"""
+
+/* styles.css */
+.metric-card {
+    background-color: #f0f2f6;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.alert-high {
+    background-color: #ffcccc;
+    color: #cc0000;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.stButton>button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+}
