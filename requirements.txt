@@ -9,3 +9,7 @@ pandas==2.1.4
 numpy==1.26.3
 openpyxl==3.1.2
 fpdf2==2.7.4
+xarray==2023.12.0
+folium==0.15.1
+netCDF4==1.6.5
+h5netcdf==1.2.0
