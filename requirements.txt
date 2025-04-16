@@ -13,3 +13,4 @@ xarray==2023.12.0
 folium==0.15.1
 netCDF4==1.6.5
 h5netcdf==1.2.0
+streamlit-folium==0.15.1
